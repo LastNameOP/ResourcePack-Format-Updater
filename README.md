@@ -19,7 +19,7 @@ Next, the program will replace the pack_format number in all found resource pack
 4. Errors may occur because the program has not been fully tested. If you find an error, please write to the mail cotyuhov@gmail.com .
 5. When updating the format number, the program outputs the name of the updated resource pack.
 6. There may be errors when updating resource packs if the folder .minecraft is not in the default directory.
-
+--------------------------------------------------------------------------------------------------------------------
 1. Графическая оболочка отсутствует, поэтому приложение консольное. (Нету красивого интерфейса, просто консоль).
 2. Программа не проверяет вложенные папки и архивы. 
 3. Поддерживается обновление исключительно zip-архивов.
