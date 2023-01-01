@@ -1,13 +1,13 @@
 # ResourcePack-Format-Updater
 Изменяет номер формата в зависимости от желаемой версии
---------------------------------------------------------------------------------------------------------------------
+
 Changes the format number depending on the desired version
 
 # How it works? / Как это работает?
 Всё, что вам необходимо сделать - это ввести нужную вам версию при запуске программы.
 Если путь к вашей папке .minecraft не стандартный (C:\Users\USER\AppData\Roaming\.minecraft), то необходимо будет так же ввести путь к ней.
 Далее программа заменит число pack_format во всех найденных ресурспака на соответствующее введённой версии.
---------------------------------------------------------------------------------------------------------------------
+
 All you need to do is enter the version you need when you start the program.
 If the path to your folder .minecraft is not standard (C:\Users\USER\AppData\Roaming\.minecraft ), then you will also need to enter the path to it.
 Next, the program will replace the pack_format number in all found resource packs with the corresponding version entered.
@@ -32,7 +32,7 @@ Next, the program will replace the pack_format number in all found resource pack
 Если вы опасаетесь за свою папку .minecraft можете скачать сам проект и запустить его через c# компилятор, например Visual Studio. 
 Ну или посмотрите код) там его немного.
 Программа не делает ничего другого, кроме копирования файла pack.mcmeta, замены в нём pack_format и сохранения его обратно.
---------------------------------------------------------------------------------------------------------------------
+
 You can download the program in the "Releases" reference tab.
 If you are afraid for your folder .minecraft can download the project itself and run it through a c# compiler, such as Visual Studio.
 Well, or look at the code) there's not much of it.
