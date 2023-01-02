@@ -4,6 +4,8 @@
 Changes the format number depending on the desired version
 
 # How it works? / Как это работает?
+ВАЖНО! Перед запуском распакуйте архив! / IMPORTANT! Unpack the archive before launching!
+
 Всё, что вам необходимо сделать - это ввести нужную вам версию при запуске программы.
 Если путь к вашей папке .minecraft не стандартный (C:\Users\USER\AppData\Roaming\.minecraft), то необходимо будет так же ввести путь к ней.
 Далее программа заменит число pack_format во всех найденных ресурспака на соответствующее введённой версии.
